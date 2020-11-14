@@ -1,5 +1,0 @@
-# AutomationTestRepo
-
-qwxqwxqwx
-qwxqwxqx
-qwdqwdqwdqwd
