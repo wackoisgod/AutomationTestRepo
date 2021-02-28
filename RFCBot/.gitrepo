@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = git@github.com:wackoisgod/RFCBot.git
+	branch = master
+	commit = 0ede5a4a41669d8ae8b663cab91dafcd80eb1b0f
+	parent = fb94193dd935aaff23243f1a394a4fbab781abd1
+	method = merge
+	cmdver = 0.4.3
