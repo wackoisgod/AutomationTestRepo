@@ -7,6 +7,6 @@
 	remote = git@github.com:wackoisgod/RFCBot.git
 	branch = foo
 	commit = f8f7660b525b7665ef47585b8950d5284bef0c48
-	parent = 0c7e87493e762f5b8f29bfeee87d01fafb957d94
+	parent = 747ac3a6ba56e810c933e50a4f86ffb9d438b761
 	method = merge
 	cmdver = 0.4.3

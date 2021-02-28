@@ -7,8 +7,8 @@ using System.Globalization;
 using Microsoft.EntityFrameworkCore.Diagnostics;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Storage;
-using Microsoft.EntityFrameworkCore.Update;
-// Hello world
+using Microsoft.EntityFrameworkCore.Update; 
+
 namespace RFCBot
 {
     public static partial class CustomExtensions
