@@ -5,8 +5,8 @@
 ;
 [subrepo]
 	remote = git@github.com:wackoisgod/RFCBot.git
-	branch = master
-	commit = f8f7660b525b7665ef47585b8950d5284bef0c48
-	parent = bf11478191973bc4d807db0348e0d1cf5de2e1d6
+	branch = foo
+	commit = b213a4dd9a7ca6f53fe37954c41d480c1e881486
+	parent = 3509c9969a55124becc256b978ea58f91708f197
 	method = merge
 	cmdver = 0.4.3
