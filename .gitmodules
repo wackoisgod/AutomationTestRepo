@@ -1,0 +1,3 @@
+[submodule "CppAst.CodeGen"]
+	path = CppAst.CodeGen
+	url = git@github.com:xoofx/CppAst.CodeGen.git
